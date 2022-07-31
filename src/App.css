@@ -6,7 +6,7 @@
 
 body {
   height: 100vh;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);
 }
 .container {
@@ -77,7 +77,7 @@ body {
   background-color: darkgrey;
 }
 
-.task h3 {
+.task-div {
   display: flex;
   align-items: center;
   justify-content: space-between;
